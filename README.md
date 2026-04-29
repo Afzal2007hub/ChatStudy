@@ -147,8 +147,6 @@ client.close()
 serverchat.py
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 113011" src="https://github.com/user-attachments/assets/1cb30712-70c1-4c3b-b16d-004c7af518e5" />
 
-
-
 clientchat.py
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 113030" src="https://github.com/user-attachments/assets/42a12e34-dbc2-45ca-84f7-4fb74c49ef15" />
 
